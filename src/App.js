@@ -11,7 +11,7 @@ function App() {
         <Dictionary />
         <p className="footer">
           <a
-            href="https://github.com/biotech-Dlvr/project-dictionary"
+            href="https://github.com/biotech-Dlvr/correct"
             target="_blank"
             rel="noreferrer"
           >
