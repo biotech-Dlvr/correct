@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  display: flex;
+  margin: 0%;
+  padding: 0%;
+  justify-content: center;
+  align-items: center;
+  background-image: url("./Image3.jpg");
+  background-size: cover;
+  background-position: center;
+  /*overflow: auto;*/
+  background-attachment: fixed;
+  opacity: 0.9;
+}
+.container {
+  /*position: relative;
+  left: 120px;*/
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 50px 90px 50px 100px;
+  padding: 20px;
+  box-sizing: border-box;
+  width: 750px;
+  height: 550px;
+  padding-bottom: 50px;
+  overflow: auto;
+  z-index: 1;
+}
+
+.footer {
+  position: relative;
+  left: 50px;
+  bottom: 0;
+  right: 0;
+  font-size: smaller;
+  color: black;
+  transition: all 150ms ease;
+  text-align: center;
+}
